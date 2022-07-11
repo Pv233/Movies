@@ -11,7 +11,7 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 
-"spider":"https://github.com/Pv233/Movies/1.jar",
+"spider":"https://github.com/Pv233/Movies/blob/main/1.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
 "proxy://do=live&type=txt&ext=Y2xhbjovL20vVFYvbGl2ZS50eHQ="
